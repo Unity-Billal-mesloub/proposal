@@ -1,9 +1,5 @@
 # Go 2 language change template
 
-Authors: Ian Lance Taylor, Robert Griesemer, Brad Fitzpatrick
-
-Last updated: January, 2020
-
 ## Introduction
 
 We get more language change proposals than we have time to review
@@ -58,10 +54,10 @@ You do not have to answer every question but please do your best.
   - If so, what quantifiable improvement should we expect?
   - How would we measure it?
 - Does this affect error handling?
-  - If so, how does this differ from [previous error handling proposals](https://github.com/golang/go/issues?utf8=%E2%9C%93&q=label%3Aerror-handling)?
+  - If so, how does this differ from [previous error handling proposals](https://github.com/Unity-Billal-mesloub/go/issues?utf8=%E2%9C%93&q=label%3Aerror-handling)?
 - Is this about generics?
   - If so, how does this relate to the [accepted design](https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md)
-    and [other generics proposals](https://github.com/golang/go/issues?utf8=%E2%9C%93&q=label%3Agenerics)?
+    and [other generics proposals](https://github.com/Unity-Billal-mesloub/go/issues?utf8=%E2%9C%93&q=label%3Agenerics)?
 
 ## What to avoid
 

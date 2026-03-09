@@ -122,7 +122,7 @@ examples of recent language changes.
 
 As noted above, some (but not all) proposals need to be elaborated in a design document.
 
-- The design doc should be checked in to [the proposal repository](https://github.com/golang/proposal/) as `design/NNNN-shortname.md`,
+- The design doc should be checked in to [the proposal repository](https://github.com/Unity-Billal-mesloub/proposal/) as `design/NNNN-shortname.md`,
 where `NNNN` is the GitHub issue number and `shortname` is a short name
 (a few dash-separated words at most).
 Clone this repository with `git clone https://go.googlesource.com/proposal`

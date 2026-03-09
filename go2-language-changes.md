@@ -1,4 +1,4 @@
-# Go language change template
+# Go 2 language change template
 
 ## Introduction
 
